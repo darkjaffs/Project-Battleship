@@ -1,4 +1,4 @@
-# Project BattleShip
+
 #include<iostream>
 #include<ctime>
 #include<cstdlib>
